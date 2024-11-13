@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...software developer
 - 🌱 I’m currently learning ...wed developer
 - 💞️ I’m looking to collaborate on ...job
-- 📫 How to reach me .9121664387
+- 📫 How to reach me .9032398585
 
 <!---
 nadeem-41/nadeem-41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
